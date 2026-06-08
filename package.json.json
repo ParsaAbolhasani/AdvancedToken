@@ -1,0 +1,30 @@
+{
+  "name": "advanced-token",
+  "version": "1.0.0",
+  "description": "Production-ready ERC20 token with fees, pausable, snapshots, and RBAC",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx hardhat test",
+    "test:gas": "REPORT_GAS=true npx hardhat test",
+    "compile": "npx hardhat compile",
+    "deploy": "npx hardhat run scripts/deploy.js",
+    "deploy:sepolia": "npx hardhat run scripts/deploy.js --network sepolia",
+    "clean": "npx hardhat clean"
+  },
+  "keywords": [
+    "blockchain",
+    "ethereum",
+    "solidity",
+    "erc20",
+    "smart-contract",
+    "hardhat"
+  ],
+  "author": "Parsa Abolhasani Rad",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "@openzeppelin/contracts": "^4.9.3",
+    "dotenv": "^16.0.3",
+    "hardhat": "^2.17.0"
+  }
+}
