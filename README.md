@@ -262,10 +262,10 @@ Parsa Abolhasani
 Blockchain Developer | Smart Contract Engineer | Web3 Developer
 
 GitHub:
-https://github.com/your-github
+https://github.com/ParsaAbolhasani
 
 LinkedIn:
-https://linkedin.com/in/your-linkedin
+www.linkedin.com/in/parsa-abolhasani-rad-
 
 ---
 
